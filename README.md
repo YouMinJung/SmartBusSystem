@@ -1,4 +1,4 @@
-# < Smart Bus System > Capston Design 1 
+# < Smart Bus System > Capston Design 1 - 2018.06
 
 <p> Environment : Vi Editor in Raspberry Pi/Linux, Android Studio in Windows </p>
 <p> Language : C, Java, Python </p>
