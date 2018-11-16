@@ -21,12 +21,14 @@
 
 - Raspberry Pi3 B+, PIR Sensor, LCD, LED, PiCamera로 구성
 
+<br><br>
+
 #### Program Flow
 ![111](https://user-images.githubusercontent.com/21214309/48603654-876c2300-e9ba-11e8-9f60-4b693bcf7747.JPG)
 
 - 서울시 버스 정보 Server를 중심으로 User의 APP과 Bus의 Raspberry Pi가 상호작용하여 스마트 시스템을 제공
 
-<br>
+<br><br>
 
 ##### App과 User간의 Communication
 ![6](https://user-images.githubusercontent.com/21214309/48603651-86d38c80-e9ba-11e8-8a95-b9fecb30f258.JPG)
@@ -41,7 +43,7 @@
 5) 수신하고 있던 Beacon정보를 변환하여 APP에 제공
   - 제공 받은 정보는 버스 루트정보와 버스의 현재 위치
 
-<br>
+<br><br>
 
 ##### iBeacon Structure
 ![default](https://user-images.githubusercontent.com/21214309/48603648-863af600-e9ba-11e8-8351-f012c6551407.JPG)
@@ -56,7 +58,7 @@
 4) 노선을 화면에 Draw
 5) getBusPosByVehIdItem에서 vehId를 이용해 버스의 실시간 위치 Draw
 
-<br>
+<br><br>
 
 Video URL : https://youtu.be/kGTkV1j1gr0 <br>
 Paper PDF File : [KCI_FI002364702.pdf](https://github.com/YouMinJung/SmartBusSystem/files/2588253/KCI_FI002364702.pdf)
